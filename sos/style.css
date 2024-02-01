@@ -1,0 +1,45 @@
+body{    
+    background-image: url('/sos/femicide.png') ;
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; 
+
+    color: rgb(255, 98, 98);
+
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+
+}
+
+
+.navbar {
+    background-color: blue; /* Change to the color you prefer */
+    color: white; /* Text color for the navbar */
+    padding: 10px;
+}
+
+.navbar-text {
+    color: brown; /* Color of the text */
+
+    font-weight: bold; /* Optionally, make the text bold */
+
+    font-size: 1.2rem; /* Optionally, adjust the font size */
+
+    text-align: center;
+
+    font-size: 40px;
+}
+
+
+#PARAGRAPH{
+    font-family: Arial;
+
+    font-size: 26px;
+
+    color: rgb(201, 217, 111);
+
+    background-color: pink;
+    color: red;
+   
+ 
+}
